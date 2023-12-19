@@ -1,1 +1,2 @@
 user1 write line01 中文试验
+user01 write line02 hello
